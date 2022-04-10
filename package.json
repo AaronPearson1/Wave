@@ -1,5 +1,5 @@
 {
-  "name": "social-network-api",
+  "name": "wave",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jconeff/social-network-api.git"
+    "url": "git+https://github.com/AaronPearson1/wave.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jconeff/social-network-api/issues"
+    "url": "https://github.com/AaronPearson1/wave/issues"
   },
-  "homepage": "https://github.com/jconeff/social-network-api#readme"
+  "homepage": "https://github.com/AaronPearson1/wave#readme"
 }
