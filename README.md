@@ -1,42 +1,37 @@
-# Social Network API
-[![License: MIT](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
-## Purpose
-GIVEN a social network API
-WHEN I enter the command to invoke the application
-THEN my server is started and the Mongoose models are synced to the MongoDB database
-WHEN I open API GET routes in Insomnia Core for users and thoughts
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-THEN I am able to successfully create, update, and delete users and thoughts in my database
-WHEN I test API POST and DELETE routes in Insomnia Core
-THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
+# WAVE 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+
+This project serves on the backend as a route tester for the WAVE Social Network API.
 
 ## Table of Contents
-* [Installation](#Installation)
-* [Built With](#Built-With)
-* [License](#License)
-* [Video Tutorial](#Video-Tutorial)
-* [Screenshot](#Screenshot)
-* [Credits](#Credits)
+
+- [installation](#installation)
+- [contributing](#contributing)
+- [test](#test)
+- [Questions](#Questions)
+- [license](#license)
 
 ## Installation
-To install, you will need the following npm package dependencies: 
-```
-npm install
-```
 
-## Built With
-* Express.js
-* MongoDB
-* Mongoose
+To install, clone repo, npm install, npm start
 
-## Video Tutorial
-[Video Tutorial Here!](https://drive.google.com/file/d/1ltYlD-wUtMRKI6xybAdu6Cv-ev30c0sZ/view)
+## Contributing
+
+AP, This project is powered by express, mongoose, and MongoDB. 
+
+## Test
+
+Insomnia is used for testing routes
+
+## Questions
+
+Feel free to email me at <AP@gmail.com> if you have any further questions.
+
+github: [AP@github.com](https://github.com/AP@github.com)
+
 ## License
-This application is under the [ISC](https://opensource.org/licenses/ISC) license.
-
-## Screenshot
-![Screenshot 2021-03-08 154449](https://user-images.githubusercontent.com/65797801/110379812-4a157e80-8025-11eb-8039-97d39ef2e0d2.png)
-
-## Credits
-Coded by [Jessica Coneff](https://github.com/jconeff)
+      
+  This application is covered under the MIT License. for more information, visit: https://opensource.org/licenses/MIT
